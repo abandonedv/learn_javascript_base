@@ -1,3 +1,5 @@
+"use strict";
+
 let str = "<span class>='clock'>12:34</span>";
 
 // includes - поиск подстроки

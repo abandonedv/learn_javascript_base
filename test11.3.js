@@ -1,3 +1,5 @@
+"use strict";
+
 // имя атрибута можно задавать с помощью атрибута
 let newKey = "color";
 
@@ -6,4 +8,4 @@ let car = {
     [newKey]: "black",
 };
 
-console.log(car[newKey]);
+console.log(car[newKey]); // black

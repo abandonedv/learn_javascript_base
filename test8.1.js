@@ -1,3 +1,5 @@
+"use strict";
+
 // функция ссылается на внешний контекст
 function showMessage(from, text){
     email += "+";
@@ -5,6 +7,6 @@ function showMessage(from, text){
     console.log(msg);
 }
 
-email = "vadim@mail.ru"
-showMessage("vadim","Вызов фунуции 1")
-showMessage("vadim","Вызов фунуции 2")
+let email = "vadim@mail.ru"
+showMessage("vadim","Вызов фунуции 1") // vadim vadim@mail.ru+: Вызов фунуции 1
+showMessage("vadim","Вызов фунуции 2") // vadim vadim@mail.ru++: Вызов фунуции 2

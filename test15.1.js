@@ -1,15 +1,17 @@
+"use strict";
+
 let ar = ["Я", "смотрю", "этот", "обучающий", "урок"];
 
 // splice
-test1 = ar.slice();
+let test1 = ar.slice();
 test1.splice(2, 2);
 console.log(test1); // [ 'Я', 'смотрю', 'урок' ]
 
-test2 = ar.slice();
+let test2 = ar.slice();
 test2.splice(0, 3, "Это", "классный");
 console.log(test2) // [ 'Это', 'классный', 'обучающий', 'урок' ]
 
-test3 = ar.slice();
+let test3 = ar.slice();
 test3.splice(3, 0, "интересный");
 console.log(test3); // [ 'Я', 'смотрю', 'этот', 'интересный', 'обучающий', 'урок' ]
 

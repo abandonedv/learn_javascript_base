@@ -1,3 +1,5 @@
+"use strict";
+
 let cars = [
     {model: "toyota", price: 1000},
     {model: "opel", price: 800},

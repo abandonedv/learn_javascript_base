@@ -1,3 +1,5 @@
+"use strict";
+
 // switch
 let item = 3;
 switch (item){

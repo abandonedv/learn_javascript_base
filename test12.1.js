@@ -1,3 +1,5 @@
+"use strict";
+
 let car = {
     model: "toyota",
     color: "black",

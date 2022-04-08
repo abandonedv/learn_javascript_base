@@ -1,4 +1,6 @@
-// анонимные функции 
+"use strict";
+
+// анонимные функции
 function agreeCookies(question, yes, no) {
     if (confirm(question)) yes();
     else no();

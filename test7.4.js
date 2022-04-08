@@ -1,3 +1,5 @@
+"use strict";
+
 // можно поставить метку
 
 let S = 0, M = 10, N = 5;
@@ -8,4 +10,4 @@ all: for (let i = 1; i <= N; ++i) {
     }
 }
 
-console.log("S = " + S);
+console.log("S = " + S); // S = 10

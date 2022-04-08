@@ -1,3 +1,5 @@
+"use strict";
+
 let emailsTo = "alex@m.ru; m2@m.com; pp@g.com; upr@g.ru";
 
 // split

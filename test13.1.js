@@ -1,3 +1,5 @@
+"use strict";
+
 // функции - конструкторы
 
 function Book(title, author, price) {

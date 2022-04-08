@@ -1,3 +1,5 @@
+"use strict";
+
 // toLowerCase & toUpperCase
 
 let str = 'Hello!';

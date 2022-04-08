@@ -1,3 +1,5 @@
+"use strict";
+
 // do ... while
 
 const PSW = "password";

@@ -1,3 +1,5 @@
+// "use strict";
+
 // callback - функции
 function agreeCookies(question, yes, no) {
     if (confirm(question)) yes();

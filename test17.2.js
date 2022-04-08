@@ -1,3 +1,5 @@
+"use strict";
+
 // indexOf
 
 let str = "<span class>='clock'>12:34</span>";

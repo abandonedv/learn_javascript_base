@@ -1,3 +1,5 @@
+"use strict";
+
 let arg1 = "12pt";
 let arg2 = "100%";
 let arg3 = "340px";

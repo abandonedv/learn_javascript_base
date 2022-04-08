@@ -1,3 +1,5 @@
+"use strict";
+
 console.log("Америка" > "Japan"); // true
 
 // codePointAt

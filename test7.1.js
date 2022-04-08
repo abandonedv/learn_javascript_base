@@ -1,3 +1,5 @@
+"use strict";
+
 // while
 let S = 0, i = 1;
 
@@ -6,4 +8,4 @@ while (i <= 1000) {
     ++i
 }
 
-console.log(S)
+console.log(S) // 7.485470860550343

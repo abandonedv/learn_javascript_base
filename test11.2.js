@@ -1,3 +1,5 @@
+"use strict";
+
 // можно задавать ключи из нескольких слов
 let book = {
     title: "название",
@@ -8,4 +10,4 @@ let book = {
 
 // и менять из значения обращаясь как к словарю
 book["size book"] = {height: 10, width: 2};
-console.log(book["size book"]);
+console.log(book["size book"]); // { height: 10, width: 2 }

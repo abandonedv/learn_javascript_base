@@ -1,3 +1,5 @@
+"use strict";
+
 let cars = ["toyota", "opel", "reno"];
 
 // map

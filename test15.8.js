@@ -1,3 +1,4 @@
+"use strict";
 
 let digs = [1, -2, 100, 3, 9, 54];
 

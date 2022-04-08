@@ -1,3 +1,5 @@
+"use strict";
+
 let dig = [4, 25, 2];
 
 // sort

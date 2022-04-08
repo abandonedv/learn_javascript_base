@@ -1,3 +1,5 @@
+"use strict";
+
 let age = prompt("Сколько вам лет?", 18)
 
 let setAccess = null;
