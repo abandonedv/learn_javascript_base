@@ -10,7 +10,7 @@ console.log(parseInt(arg1));
 console.log(parseInt(arg2));
 console.log(parseInt(arg3));
 
-// parseInt - выделение вещественного числа из строки
+// parseFloat - выделение вещественного числа из строки
 
 console.log(parseFloat("12.5pt"));
 console.log(parseFloat("  90.5% "));

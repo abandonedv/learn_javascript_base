@@ -1,5 +1,7 @@
 "use strict";
 
+// methods
+
 let car = {
     model: "toyota",
     color: "black",

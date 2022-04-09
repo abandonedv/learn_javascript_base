@@ -1,5 +1,7 @@
 "use strict";
 
+// delete
+
 let book = {
     title: "название",
     author: "автор",
